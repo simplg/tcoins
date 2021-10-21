@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 import math
-from app.lib.compute import sum
+from app.utils.compute import sum
 
 
 @dataclass
